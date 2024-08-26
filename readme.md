@@ -1,3 +1,37 @@
+### WeatherApp
+
+Welcome to **WeatherApp**, your go-to solution for real-time weather updates and seamless time display. Designed with a sleek, responsive interface, WeatherApp offers a variety of features to enhance your weather-watching experience. Whether you want to stay updated with the latest weather conditions, keep track of time across different time zones, or personalize the app’s appearance and language settings, WeatherApp has got you covered.
+
+---
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Flask](https://img.shields.io/badge/framework-Flask-red)
+![Tailwind CSS](https://img.shields.io/badge/css-Tailwind-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+---
+
+### Key Features
+
+| 🌦️ **Real-time Weather Updates**  | Fetches and displays current weather conditions, ensuring you stay informed about the latest weather developments. |
+|----------------------------------|------------------------------------------------------------------------------------------------------------|
+| 🌡️ **Clock Display**              | Shows the current time, adjusting seamlessly to your selected timezone for accurate timekeeping.            |
+| 🌍 **Language Toggle**            | Supports switching between English and Polish, allowing users to choose their preferred language.           |
+| 🎨 **Theme Toggle**               | Easily switch between light, dark, ocean, and pastel themes to personalize your app experience.            |
+
+---
+
+WeatherApp is built using the lightweight and powerful **Flask** framework. Flask is utilized primarily to allow users to easily host the application themselves, providing a simple and flexible way to run the app on any machine. The use of Flask ensures that the application remains straightforward in operation—just set it up and run it, with no complex configurations required.
+
+### Why Choose WeatherApp?
+
+- **Simplicity in Operation**: With minimal setup required, WeatherApp is designed to be easy to deploy and run. Just clone the repository, install dependencies, and you're good to go!
+- **Self-Hosting Capability**: Host WeatherApp on your own server or local machine with ease, giving you complete control over your data and settings.
+- **Elegant Design**: The app features a modern, visually appealing interface, making it both functional and a pleasure to use.
+- **Responsive and Customizable**: WeatherApp is fully responsive, adapting to various screen sizes, and offers multiple themes and language options to suit your preferences.
+
+Whether you're a developer looking to host a simple weather app on your server or a user seeking an attractive and customizable weather dashboard, WeatherApp is the perfect choice, combining ease of use with powerful features.
+
 # WeatherApp Documentation
 
 Welcome to the WeatherApp documentation! This guide will help you understand the structure, functionality, and setup process of the application. The application is designed to provide weather updates and a clock display using the Flask framework.
