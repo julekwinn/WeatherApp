@@ -2,6 +2,8 @@
 
 Welcome to **WeatherApp**, your go-to solution for real-time weather updates and seamless time display. Designed with a sleek, responsive interface, WeatherApp offers a variety of features to enhance your weather-watching experience. Whether you want to stay updated with the latest weather conditions, keep track of time across different time zones, or personalize the app’s appearance and language settings, WeatherApp has got you covered.
 
+![Weather_screen_1](https://github.com/user-attachments/assets/6212bf56-e26c-49f1-852a-5e834c581b49)
+
 ---
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
@@ -31,7 +33,6 @@ WeatherApp is built using the lightweight and powerful **Flask** framework. Flas
 - **Responsive and Customizable**: WeatherApp is fully responsive, adapting to various screen sizes, and offers multiple themes and language options to suit your preferences.
 
 Whether you're a developer looking to host a simple weather app on your server or a user seeking an attractive and customizable weather dashboard, WeatherApp is the perfect choice, combining ease of use with powerful features.
-![Weather_screen_1](https://github.com/user-attachments/assets/6212bf56-e26c-49f1-852a-5e834c581b49)
 
 
 # WeatherApp Documentation
