@@ -31,6 +31,8 @@ WeatherApp is built using the lightweight and powerful **Flask** framework. Flas
 - **Responsive and Customizable**: WeatherApp is fully responsive, adapting to various screen sizes, and offers multiple themes and language options to suit your preferences.
 
 Whether you're a developer looking to host a simple weather app on your server or a user seeking an attractive and customizable weather dashboard, WeatherApp is the perfect choice, combining ease of use with powerful features.
+![Weather_screen_1](https://github.com/user-attachments/assets/6212bf56-e26c-49f1-852a-5e834c581b49)
+
 
 # WeatherApp Documentation
 
