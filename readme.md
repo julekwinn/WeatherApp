@@ -7,8 +7,6 @@ Welcome to **WeatherApp**, your go-to solution for real-time weather updates and
 
 ![Weather_screen_1](https://github.com/user-attachments/assets/6212bf56-e26c-49f1-852a-5e834c581b49)
 
-![obraz](https://github.com/user-attachments/assets/97536a9d-9013-4821-b539-7e516655336f)
-
 
 ---
 
