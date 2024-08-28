@@ -15,8 +15,9 @@ Welcome to **WeatherApp**, your go-to solution for real-time weather updates and
 ![Tailwind CSS](https://img.shields.io/badge/css-Tailwind-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
----
 
+[![Watch the video](https://github.com/user-attachments/assets/6212bf56-e26c-49f1-852a-5e834c581b49)](https://www.youtube.com/watch?v=ounly5mhWZ4)
+---
 ### Key Features
 
 | 🌦️ **Real-time Weather Updates**  | Fetches and displays current weather conditions, ensuring you stay informed about the latest weather developments. |
