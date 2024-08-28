@@ -2,7 +2,11 @@
 
 Welcome to **WeatherApp**, your go-to solution for real-time weather updates and seamless time display. Designed with a sleek, responsive interface, WeatherApp offers a variety of features to enhance your weather-watching experience. Whether you want to stay updated with the latest weather conditions, keep track of time across different time zones, or personalize the app’s appearance and language settings, WeatherApp has got you covered.
 
+![GIF(1)](https://github.com/user-attachments/assets/3d2f138f-8900-4e5c-ac46-5b5d4a461c34)
+
+
 ![Weather_screen_1](https://github.com/user-attachments/assets/6212bf56-e26c-49f1-852a-5e834c581b49)
+
 
 ---
 
