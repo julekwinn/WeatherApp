@@ -4,9 +4,7 @@ Welcome to **WeatherApp**, your go-to solution for real-time weather updates and
 
 ![GIF(1)](https://github.com/user-attachments/assets/3d2f138f-8900-4e5c-ac46-5b5d4a461c34)
 
-
-![Weather_screen_1](https://github.com/user-attachments/assets/6212bf56-e26c-49f1-852a-5e834c581b49)
-
+[![Watch the video](https://github.com/user-attachments/assets/6212bf56-e26c-49f1-852a-5e834c581b49)](https://www.youtube.com/watch?v=ounly5mhWZ4)
 
 ---
 
@@ -16,7 +14,6 @@ Welcome to **WeatherApp**, your go-to solution for real-time weather updates and
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
-
 ### Key Features
 
 | 🌦️ **Real-time Weather Updates**  | Fetches and displays current weather conditions, ensuring you stay informed about the latest weather developments. |
